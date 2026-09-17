@@ -1,7 +1,8 @@
 <p align="center">
   <img 
     src="https://github.com/Dostoevsk11/Dostoevsk11/blob/5e0b94f831dfe0e836c7e14998f886ba918806b4/acedia.png"
-    height="250">
+    width="100%"
+    height="350">
 </p>
 
 <h3 align="center">
